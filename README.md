@@ -2,7 +2,7 @@
 - 👀 I’m interested in SASE Cloud Security 
 - 🌱 I’m currently learning IC2 CCSP & AWS SecOps & SASE
 - 💞️ I’m looking to collaborate on ...Cloud Security Technologies
-- 📫 How to reach me ...
+- 📫 How to reach me ...jaymusashi@gmail.com
 
 <!---
 jaymusashi/jaymusashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
